@@ -1,1 +1,1 @@
-command that prints paths name
+listing script
